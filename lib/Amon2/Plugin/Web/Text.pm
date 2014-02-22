@@ -1,0 +1,1 @@
+../../../../module/Amon2-Plugin-Web-Text/lib/Amon2/Plugin/Web/Text.pm

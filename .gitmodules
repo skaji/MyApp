@@ -1,0 +1,6 @@
+[submodule "module/Plack-Middleware-StatusHtml"]
+	path = module/Plack-Middleware-StatusHtml
+	url = git://github.com/shoichikaji/Plack-Middleware-StatusHtml.git
+[submodule "module/Amon2-Plugin-Web-Text"]
+	path = module/Amon2-Plugin-Web-Text
+	url = git://github.com/shoichikaji/Amon2-Plugin-Web-Text.git
